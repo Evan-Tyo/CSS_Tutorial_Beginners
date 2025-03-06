@@ -7,3 +7,5 @@ https://www.youtube.com/watch?v=n4R2E7O-Ngo&ab_channel=DaveGray
 https://github.com/gitdagray/css_course
 
 https://courses.davegray.codes/web-dev-roadmap-for-beginners
+
+https://www.youtube.com/watch?v=VzkWH7mJpe8&ab_channel=DaveGray
